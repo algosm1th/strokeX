@@ -1,7 +1,4 @@
-# strokeX 
-( One line puzzle )
-
-## c++ based
+# strokeX ( One line puzzle )
 a pretty fascinating game with an amazing neon GUI.
 
 # How it works?
@@ -18,6 +15,9 @@ Levels uprgrade only after completing previous levels.
 Live effects when buttons hovered.
 Shining glaze on tracing every edge.
 Live timer for every level.
+
+# Libraries
+made with using ray-library.
 
 
 
